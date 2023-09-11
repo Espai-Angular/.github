@@ -1,2 +1,2 @@
 # .github
-Repo de presentació
+Repositori de presentació
