@@ -1,9 +1,9 @@
 <h1 align="center">Hola a tothom 👋</h1>
-<h3 align="center">Sóc en Jordi Llop (:yum:llopFilms) & Col·laboradors</h3>
+<h3 align="center">Sóc en Jordi Llop (😋 llopFilms) & Col·laboradors</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-angular&label=Visites Espai Angular&color=0e75b6&style=flat" alt="llopfilms Espai Angular" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-angular&label=Visites%20Espai%20Angular&color=0e75b6&style=flat" alt="llopfilms Espai Angular" /> </p>
 
-<div align="center">🌱 Aquest és un espai pel desenvolupament web en &nbsp;:heavy_minus_sign:&nbsp; Angular 
+<div align="center">🌱 Aquest és un espai pel desenvolupament web en &nbsp;➖&nbsp; Angular 
 </div>
 <h3 align="center">Llenguatges i eines</h3>
 
